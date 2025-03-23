@@ -4,6 +4,12 @@ This repository contains a standalone **C++ Bloom Filter server** that supports 
 
 It is designed to integrate with the main application stack (Web, Android, and Server) to prevent unsafe content from being processed.
 
+In addition to this floomfilter, there are separate repositories in this GitHub for:
+
+  * [The Web Application](https://github.com/MayaRosen/facebook-like-web)
+  * [The Android Application](https://github.com/MayaRosen/facebook-like-android)
+  * [The Server Service](https://github.com/MayaRosen/facebook-like-server)
+
 ---
 
 ## Features
